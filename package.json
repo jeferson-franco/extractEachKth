@@ -1,0 +1,20 @@
+{
+  "name": "extracteachkth",
+  "version": "1.0.0",
+  "description": "Given array of integers, remove each `k^th` element from it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/extractEachKth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/extractEachKth/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/extractEachKth#readme"
+}
